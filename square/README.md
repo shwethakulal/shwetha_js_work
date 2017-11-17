@@ -1,0 +1,1 @@
+#created sqaure function which takes the input and validates whether it is the number or not.
